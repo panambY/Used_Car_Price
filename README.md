@@ -10,5 +10,5 @@ This data is scraped every few months, it contains most all relevant information
 This is a Kaggle dataset which can be found in this link: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 <p align="center">
-  <img src="https://github.com/panambY/Data_Science_inProduction/blob/master/image/used_car.jpg">
+  <img src="https://github.com/panambY/Used_Car_Price/blob/master/image/used_car.jpg">
 </p>
