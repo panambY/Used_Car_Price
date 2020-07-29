@@ -3,6 +3,7 @@ backcall==0.2.0
 bleach==3.1.5
 certifi==2020.6.20
 colorama==0.4.3
+cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
@@ -15,24 +16,32 @@ Jinja2==2.11.2
 jsonschema @ file:///C:/ci/jsonschema_1594363671836/work
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
 jupyter-core==4.6.3
+kiwisolver==1.2.0
 MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
+matplotlib==3.3.0
 mistune @ file:///C:/ci/mistune_1594373272338/work
 nbconvert @ file:///C:/ci/nbconvert_1594372737468/work
 nbformat==5.0.7
 notebook==6.0.3
+numpy==1.19.1
 packaging==20.4
+pandas==1.0.5
 pandocfilters==1.4.2
 parso==0.7.0
 pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
+Pillow==7.2.0
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 Pygments==2.6.1
 pyparsing==2.4.7
 pyrsistent==0.16.0
 python-dateutil==2.8.1
+pytz==2020.1
 pywin32==227
 pywinpty==0.5.7
 pyzmq==19.0.1
+scipy==1.5.1
+seaborn==0.10.1
 Send2Trash==1.5.0
 six==1.15.0
 terminado==0.8.3
