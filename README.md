@@ -12,4 +12,5 @@ This is a Kaggle dataset which can be found in this link: https://www.kaggle.com
 <p align="center">
   <img src="https://github.com/panambY/Used_Car_Price/blob/master/image/used_car.jpg">
 </p>
+
 I followed in this project the steps of the project management method called CRISP-DM. This method has undergone modifications aimed at the reality of a Data Science project and with that it was called CRISP-DS.
