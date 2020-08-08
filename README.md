@@ -14,3 +14,5 @@ This is a Kaggle dataset which can be found in this link: https://www.kaggle.com
 </p>
 
 I followed in this project the steps of the project management method called CRISP-DM. This method has undergone modifications aimed at the reality of a Data Science project and with that it was called CRISP-DS.
+
+Your main principle is doing the project following multiples cycles as the necessity.
