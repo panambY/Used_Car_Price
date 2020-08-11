@@ -18,9 +18,9 @@ I followed in this project the steps of the project management method called CRI
 Your main principle is doing the project following multiples cycles as the necessity.
 
 ### 1 - Business Question
-Predict how much energy the power companies in the datasets will consume in the next 12 months.<br>
+
 ### 2 - Understanding the Business
-This forecast will be used to plan companies in relation to the investments necessary for the expansion and maintenance of their power plants. <br>
+
 ### 3 - Data Collection
 **0.0 - IMPORTS** <br>
 	0.1 - Helper Function <br>
