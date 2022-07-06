@@ -26,7 +26,7 @@ jupyter-contrib-nbextensions==0.5.1
 jupyter-highlight-selected-word==0.2.0
 jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
-lxml==4.5.1
+lxml==4.9.1
 MarkupSafe==1.1.1
 mistune==0.8.4
 nbconvert==5.6.1
